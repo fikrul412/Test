@@ -11,7 +11,7 @@ my_win = QWidget()
 # creating the name of the main window
 my_win.setWindowTitle('My first app')
 # setting the point where the window will show up on the computer screen
-my_win.move(900, 70)
+my_win.move(200, 70)
 # setting the window size
 my_win.resize(400, 200)
 # giving the window the command to show up
